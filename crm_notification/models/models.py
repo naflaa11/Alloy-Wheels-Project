@@ -224,8 +224,3 @@ class Lead(models.Model):
 #
 #             }
 #             activities = self.env['mail.activity'].create(create_vals)
-#
-#
-#
-#
-#
